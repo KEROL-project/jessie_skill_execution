@@ -1,0 +1,4 @@
+"[pick, pick up, take, grab]":
+  - X is visible
+"[hand over, hand over to, give, give to]":
+  - X is visible
